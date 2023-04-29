@@ -1,0 +1,170 @@
+EventId,EventTemplate,Occurrences
+3aa50e45,instruction cache parity error corrected,22619
+b9250ad9,MidplaneSwitchController performing bit sparing on R<*>-M<*>-L<*>-U<*>-C bit <*>,80
+fc5f0940,generating core.<*>,172831
+1840cbfe,"<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>",913
+d55290a1,<*> L<*> <*> error(s) (dcr <*>) detected and corrected,324
+65f23e3e,"CE sym <*>, at <*>, mask <*>",7305
+147cfcff,total of <*> ddr error(s) detected and corrected,740
+ba77ab8e,ddr: activating redundant bit steering: rank=<*> symbol=<*>,60
+6ede2c6c,"ddr: excessive soft failures, consider replacing the card",16
+57138c88,"ciod: Error loading <*> invalid or missing program image, No such file or directory",248
+6265c739,<*> double-hummer alignment exceptions,4737
+c3c18d52,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected,68
+257e4299,idoproxydb has been started: $Name: DRV<*> $ Input parameters: -enableflush -loguserinfo db.properties BlueGene<*>,1
+6b31e08c,ciodb has been restarted.,1
+eb38b026,mmcs_db_server has been started: ./mmcs_db_server --useDatabase BGL --dbproperties serverdb.properties --iolog /bgl/BlueLight/logs/BGL --reconnect-blocks all,1
+4983ff07,ciod: LOGIN <*> failed: No such file or directory,2124
+183ff96a,ciod: failed to read message prefix on control stream (CioStream socket to <*>:<*>,2164
+38a7307d,data TLB error interrupt,149494
+0259e53a,instruction <*> <*>,199
+ce2b6cdc,machine check <*>,100
+a111fe6f,machine check status register: <*>,6
+0b5734c3,summary...........................<*>,6
+1f5adb7d,data <*> plb <*>,12
+ad738237,tlb error.........................<*>,6
+693e1c03,<*> parity <*>,7
+b15df703,d-cache <*> parity <*>,12
+8f4acfdd,imprecise machine check...........<*>,6
+8d23c697,machine state register: <*>,96
+33699bb4,<*> state <*>,192
+368b1120,<*> input interrupt enable...<*>,192
+47ced713,floating point instr. enabled.....<*>,96
+f4a80ec4,floating pt ex mode <*> enable......<*>,192
+07038970,debug <*> <*>,192
+121941c0,data <*> <*>,186
+06072e40,core configuration register: <*>,96
+60cad074,disable <*> <*>,193
+0328c31b,disable apu instruction broadcast........<*>,96
+55addd29,guaranteed <*> cache block <*>,192
+cf145002,force load/store alignment...............<*>,96
+3777cdd1,icache prefetch <*>,192
+4149b6da,<*> purpose registers:,192
+1e2c893c,<*> <*>:<*>eeeeeee <*>,95
+cab7c146,<*>:<*>:<*>,2
+6ce600a9,<*>:<*> <*>,4
+7af6cf82,<*>:<*>fd<*> <*>:<*>eeeeeee <*>:ffffffff <*>:ffffffff,1
+dede275d,<*> <*>,8
+d4aab023,<*> <*>fefff<*>,1
+1d721a14,<*>:<*>fefff<*>a <*>:<*>fefff<*>,1
+38869982,<*> cr:<*> xer:<*> <*>,96
+220716fc,rts panic! - stopping execution,127
+c70dad25,<*> torus receiver <*> input pipe error(s) (dcr <*>) detected and corrected,371
+a5623903,<*>e <*>,171
+1fda146a,<*>e <*> <*>,6
+684c4e1c,<*>:<*>bffffa<*>:<*>c,1
+07b4a031,<*>:<*>cdfffe<*>:<*>c,1
+7fbc8d7c,<*>:a<*>:<*>c,2
+85ed43d7,<*> <*>c,14
+c7247fb6,<*>:<*>e<*>ed<*>:<*>c,1
+2eb8b523,<*>:<*>:<*>c,10
+9f69abb1,<*> <*> <*>:ffffffff,124
+f63f980b,<*>b<*>ea<*>,55
+81009d2a,<*>e<*>feaa<*>,35
+23ed7c91,<*>e<*> <*>,55
+00980b01,<*> <*>e <*>,93
+af999985,rts internal error,90
+af477c99,<*>:<*>bfe<*>:<*>c,1
+4e528fca,<*> <*> <*>c,35
+94d92d0f,<*> <*>:<*>,3
+cb0c129d,<*>:<*>fe<*>:<*>e<*>ea<*> <*>:ffffffff,1
+b180f3d6,<*>:<*>fdb<*>:<*>c,1
+82516772,<*>:<*>bffffd<*>:<*>c,1
+1be4e79b,<*>:<*>bfc<*>:<*>c,1
+d8d06c48,<*>ab<*>:<*>c,1
+4a438082,<*>:fee<*>bef<*>:<*>c,1
+6e8cacc0,<*>:e<*>:<*>c,1
+66b25439,<*>:c<*>:<*>c,1
+f9885348,<*>:d<*>:<*>c,1
+893a2b45,<*>:<*>f<*>fd<*>:<*>c,1
+55fa48ef,<*>:a<*>dd<*>:<*>c,1
+59ecbd3e,<*>cb<*>:<*>c,1
+b16c2d36,<*>:bf<*>ed<*>:<*>c,1
+38e36f34,<*>:e<*>fbd<*>:<*>c,1
+51e9c1f4,<*>:c<*>:<*>:<*>c,1
+f2acc151,<*>d<*>:<*>c,1
+5bb076cb,<*>:<*>dc<*>cb<*>:<*>c,1
+03783a6e,<*>:<*>fa<*>:<*>c,1
+7177c10c,<*>cc<*>:<*>c,2
+e0a21e97,<*>:f<*>f<*>ace<*>:<*>c,1
+1599a60f,<*>:<*>bcdc<*>:<*>c,1
+8355ed44,<*>:ad<*>:<*>:<*>c,1
+83447d6c,<*>:<*>b<*>fd<*>:<*>c,1
+cc0d2f4c,<*>:<*>edefb<*>:<*>c,1
+250463db,<*>:daabe<*>:<*>c,1
+e872bbe9,ciod: Message code <*> is not <*> or <*>,1773
+2355b700,ciod: pollControlDescriptors: Detected the debugger died.,112
+e4d1b432,"ciod: for node <*>, read continuation request but ioState is <*>",217
+9c0ffa0d,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,2065
+044744e5,machine check interrupt (bit=<*>): L<*> dcache unit data parity error,1
+62fd540d,<*>b <*>:<*>ff<*>,1
+3e59e921,<*>b<*> <*>,2
+6796e2c2,<*>:fffffff<*>:<*>,2
+17fffd89,ciod: LOGIN chdir(/home/bertsch<*>/src/bgl_hello) failed: Permission denied,112
+6507211e,machine check interrupt (bit=<*>): L<*> <*> <*> error,2
+31bea08a,L<*> <*> <*> register: <*>,3
+243d8ef7,start <*>,4
+0af83d09,close EDRAM pages as soon as possible....<*>,1
+ba1a3e70,size of <*> <*> <*> <*> (<*>M),2
+2d40a57d,disable all access to cache directory....<*>,1
+d39f7ed9,write buffer commit threshold............<*>,1
+13b72099,prefetch depth for <*> <*>,3
+f4c653a2,max number of outstanding prefetches.....<*>,1
+30442b65,turn on hidden refreshes.................<*>,1
+39352bbd,disable write lines <*>:<*>..................<*>,1
+f0bd9bfb,capture first <*> <*> error address..<*>,6
+f0c5d0b0,disable flagging of DDR UE's as major internal error.<*>,1
+ca17b436,<*> error detected in <*> <*>,5
+620020e3,<*> error detected in EDRAM bank <*>,4
+b265915b,parity error in <*> <*>,3
+cb5b50aa,parity error in read queue <*>,3
+e44c272d,number of correctable errors detected in L<*> <*>,2
+a6810873,interrupt threshold...<*>,2
+99451efb,number of lines with parity errors written to L<*> EDRAMs...<*>,1
+a5f84854,DDR <*> <*> register: <*> <*>,2
+646a2086,memory and bus summary...........................<*>,1
+856dcf68,command manager unit summary.....................<*>,1
+e0d805d0,memory manager <*> <*>,4
+3bf1bcdc,memory manager <*> <*> <*>,4
+05d14ace,memory manager <*>,2
+2dd1b293,state machine....................................<*>,1
+58a54357,memory manager / command manager address parity..<*>,1
+0256fb0b,regctl scancom interface.........................<*>,1
+5827d3bf,DDR failing info register: <*>,1
+d81b36a7,capture valid.........<*>,1
+fac52822,symbol................<*>,1
+49a593e5,mask..................<*>,1
+36921b9f,miscompare............<*>,1
+acc970d2,uncorrectable error...<*>,1
+2bfcdc54,correctable error.....<*>,1
+d447db0e,qw trapped............<*>,1
+80bac4a3,chip select...........<*>,1
+9e0ff38f,DDR failing data registers: <*> <*>,1
+198b9694,<*> <*>c <*>,1
+9db1d065,<*>ae <*>fe<*>,1
+d31ca7d3,<*>:<*>eeeeeee <*>:ffffffff <*>cc<*>,1
+838267c3,<*>:ffffffff <*>ae<*>,1
+21514e3a,"PrepareForService is being done on this card(mLctn(R<*>-M<*>-ND), mCardSernum(<*>), mLp(FF:F<*>:<*>F:<*>:BF:<*>:<*>:<*>D:<*>:E<*>:<*>:BB), mIp(<*>), mType(<*>)) by root",1
+16b5975a,<*> <*> <*> <*> <*> <*> <*> <*> as part of Service Action <*>,2
+7db0e713,EndServiceAction <*> performed upon R<*>-M<*>-ND by root,1
+a2335b6b,Node card is not fully functional,15
+9d5d6232,Can not get assembly information for node card,15
+38657a2c,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK.,15
+66c627c6,Node card VPD check: U<*> node in processor card slot J<*> do not match. VPD ecid <*> found <*>,6
+0509d32d,ciod: sendMsgToDebugger: error sending PROGRAM_EXITED message to debugger.,1
+ca64273c,<*>:<*>eeeeeee <*>,2
+4b80a7ee,<*> <*>:<*>fd,1
+b48cf21c,<*> <*>:<*>fd<*>,2
+a6ecb646,<*>fdc <*> <*>,1
+890d57c7,<*>ef<*>:<*>,1
+6ace88ab,<*>fd<*> <*>,1
+ce173d18,<*> <*>:c<*>:c<*>,1
+11353590,<*>eeeeeee <*>:<*>e<*>ba<*>ecf<*>a<*>,1
+17f5f4fd,<*>f <*>:<*>c<*>cc<*> <*>:<*>ed<*>b<*>,1
+64624f0a,<*>:<*>f <*>ecf<*>a<*>,1
+a66abe90,<*>fea<*>eeeeeee <*>:fe<*>bc<*>,1
+13b6821e,<*>:ffff<*>e<*> <*>:fffbccf<*>c<*>,1
+f91b0812,<*> <*>fc<*>b<*>,1
+a4ce9deb,<*> <*>:<*>fb<*>f<*>da<*>,1
+7c9a1567,<*>ac <*> <*>:<*>bd<*>,1
+73cfcfee,<*> torus sender <*> retransmission error(s) (dcr <*>) detected and corrected,4
